@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @piapiaQ
+- 👋 Hi, I’m Zhaoyu Qiao
 - 👀 I’m interested in applying Data Science in Preventive Care and Chronic Disease Management.  
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Natural Language Processing
 - :dancer: I love dancing and jazz music
 
 
